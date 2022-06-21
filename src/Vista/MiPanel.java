@@ -65,11 +65,6 @@ public class MiPanel extends JPanel {
         this.add(etiqueta3);
         this.add(etiqueta4);
     }
-  // public void paint (Graphics g) {
-    //   super.paint(g);
 
-     //System.out.println("ancho"+getWidth());
-     //System.out.println("alto"+getHeight());
-    // }
 
 }
