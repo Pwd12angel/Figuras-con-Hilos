@@ -9,7 +9,7 @@ public class Ventana extends JFrame{
         this.setResizable(false);
         this.setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
         this.setLocationRelativeTo(null);
-        this.setTitle("Mi primera ventana");
+        this.setTitle("Movimiento de figuras");
         this.setVisible(true);
 
         colocarPanel();
